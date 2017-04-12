@@ -19,6 +19,4 @@ int main () {
     else if (b > a){
         std::cout<<"El mayor es: "<<b;
     }
-    else{}
-
 }
